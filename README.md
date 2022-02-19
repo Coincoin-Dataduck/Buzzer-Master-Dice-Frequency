@@ -174,4 +174,4 @@ Project Link: [https://github.com/Coincoin-Dataduck/Buzzer-Master-Dice-Frequency
 [license-url]: https://github.com/Coincoin-Dataduck/Buzzer-Master-Dice-Frequency/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/cl%C3%A9ment-f-a6b85083/
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: images/screenshot.jpg
